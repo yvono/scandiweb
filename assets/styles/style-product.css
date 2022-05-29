@@ -1,0 +1,20 @@
+#attributes{
+    border: 2px solid black;
+    width: fit-content;
+    max-width: 400px;
+    padding: 2vh;
+}
+.form-group, .in-group{
+    margin-bottom: 5vh;
+    
+}
+label{
+    display: inline-block;
+    width: 80px;
+    text-align: left;
+}
+.btn-top{
+    position: absolute;
+    top: 20px;
+    right: 40px;
+}
